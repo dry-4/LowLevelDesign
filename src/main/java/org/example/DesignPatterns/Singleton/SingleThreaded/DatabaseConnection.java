@@ -3,8 +3,7 @@ package org.example.DesignPatterns.Singleton.SingleThreaded;
 public class DatabaseConnection {
     private static DatabaseConnection databaseConnection = null;
 
-    private DatabaseConnection() {
-    }
+    private DatabaseConnection() {}
 
     // Not going to work in a concurrent environment
     public static DatabaseConnection getInstance() {

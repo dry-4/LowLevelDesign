@@ -1,6 +1,7 @@
-package org.example.DesignPatterns.Singleton.EagerLoading;
+package org.example.DesignPatterns.Singleton.DoubleCheckLocking;
 
 public class Client {
+
     public static void main(String[] args) {
         DatabaseConnection db1 = DatabaseConnection.getInstance();
 
