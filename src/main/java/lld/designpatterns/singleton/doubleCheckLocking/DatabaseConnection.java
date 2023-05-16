@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.Singleton.DoubleCheckLocking;
+package lld.designpatterns.singleton.doubleCheckLocking;
 
 public class DatabaseConnection {
     private static DatabaseConnection databaseConnection = null;

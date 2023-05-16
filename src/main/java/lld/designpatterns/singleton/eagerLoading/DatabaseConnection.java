@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.Singleton.EagerLoading;
+package lld.designpatterns.singleton.eagerLoading;
 
 public class DatabaseConnection {
     private static DatabaseConnection databaseConnection = new DatabaseConnection();

@@ -1,11 +1,10 @@
-package org.example.DesignPatterns.Singleton.SingleThreaded;
+package lld.designpatterns.singleton.eagerLoading;
 
 public class Client {
     public static void main(String[] args) {
         DatabaseConnection db1 = DatabaseConnection.getInstance();
 
-        // Address is going to be same as db1
+        // Address should be same as db1
         DatabaseConnection db2 = DatabaseConnection.getInstance();
-
     }
 }

@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.Decorator;
+package lld.designpatterns.decorator;
 
 public class ChocoChips implements IceCreamConeConstitutents{
     private IceCreamConeConstitutents iceCreamConeConstitutents;

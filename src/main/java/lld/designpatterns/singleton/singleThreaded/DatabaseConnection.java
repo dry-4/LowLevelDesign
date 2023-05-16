@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.Singleton.SingleThreaded;
+package lld.designpatterns.singleton.singleThreaded;
 
 public class DatabaseConnection {
     private static DatabaseConnection databaseConnection = null;

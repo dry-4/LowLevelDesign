@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88328c0c-8856-4f67-a745-960c20b69804" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/ChocoChips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/ChocolateCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/IceCreamConeConstitutents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/OrangeCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/StrawberryScoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/VanillaScoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/ChocoChips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/decorator/ChocoChips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/ChocolateCone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/decorator/ChocolateCone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/IceCreamConeConstitutents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/decorator/IceCreamConeConstitutents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/OrangeCone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/decorator/OrangeCone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/StrawberryScoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/decorator/StrawberryScoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Decorator/VanillaScoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/decorator/VanillaScoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Singleton/DoubleCheckLocking/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/singleton/doubleCheckLocking/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Singleton/DoubleCheckLocking/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/singleton/doubleCheckLocking/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Singleton/EagerLoading/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/singleton/eagerLoading/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Singleton/EagerLoading/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/singleton/eagerLoading/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Singleton/SingleThreaded/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/singleton/singleThreaded/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DesignPatterns/Singleton/SingleThreaded/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/designpatterns/singleton/singleThreaded/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lld/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683973750822</updated>
       <workItem from="1683973751334" duration="3948000" />
-      <workItem from="1683977721988" duration="7755000" />
+      <workItem from="1683977721988" duration="8198000" />
     </task>
     <servers />
   </component>

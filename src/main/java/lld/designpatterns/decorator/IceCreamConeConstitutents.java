@@ -1,4 +1,4 @@
-package org.example.DesignPatterns.Decorator;
+package lld.designpatterns.decorator;
 
 public interface IceCreamConeConstitutents {
     int getCost();
